@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- `Maulana Imamul Khaq - maulana1k`
 - Bob
